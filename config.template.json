@@ -1,0 +1,11 @@
+{
+  "contacts": {
+    "example_contact": {
+      "name": "PLACEHOLDER_NAME",
+      "phone": "PLACEHOLDER_NUMBER",
+      "whatsapp_enabled": true
+    }
+  },
+  "redmi_device_id": "PLACEHOLDER_DEVICE_ID",
+  "motorola_device_id": "PLACEHOLDER_DEVICE_ID"
+}

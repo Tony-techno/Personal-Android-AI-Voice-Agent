@@ -1,0 +1,5 @@
+# Sensitive/local config - never commit
+config.json
+contacts.json
+*.log
+secrets/
